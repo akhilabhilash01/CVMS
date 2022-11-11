@@ -17,8 +17,7 @@ CVMS will also keep count on the total number of people vaccinated and will keep
 **Project By:**
 1) ISHAN THAKUR (RA1911003030068)
 2) AKHIL ABHILASH (RA1911003030086)
-3) MANAS SHARMA (RA1911003030090)
-4) HARSHIT TYAGI (RA1911003030093)
+3) HARSHIT TYAGI (RA1911003030093)
 
 of SRM Institue of Science and Technology, Batch: 2019 - 2023
 
